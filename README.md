@@ -756,6 +756,6 @@ SOFTWARE.
 
 **[⬆ Back to Top](#iteam-university-event-management-platform)**
 
-Made with ❤️ by the iTeam University Development Team
+Made with ❤️ by [@0xkhyr](https://github.com/0xkhyr)
 
 </div>
